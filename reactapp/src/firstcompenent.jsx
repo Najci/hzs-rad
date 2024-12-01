@@ -2,7 +2,9 @@ import React from 'react'
 
 const firstcompenent = () => {
   return (
-    <div>conflict</div>
+    <div>
+        <p>tag</p>
+    </div>
   )
 }
 
