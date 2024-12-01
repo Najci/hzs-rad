@@ -2,7 +2,7 @@ import React from 'react'
 
 const firstcompenent = () => {
   return (
-    <div>firstcompenent</div>
+    <div>conflict</div>
   )
 }
 
